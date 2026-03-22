@@ -1,2 +1,2 @@
-# MultiplatformModApp
-ssss
+# MultiplatformApp
+Multiplatform App
